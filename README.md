@@ -42,7 +42,7 @@ No frameworks — fast & lightweight ⚡
 
 ## 📂 Project Sections
 The site includes:
-- Hero introduction
+- Introduction
 - Projects showcase
 - Skills list
 - Education
@@ -52,8 +52,3 @@ The site includes:
 
 ---
 
-## 🚀 Getting Started
-
-### 1️⃣ Clone this repo
-```bash
-git clone https://github.com/saivenkateshr21/Portfolio-Website.git
